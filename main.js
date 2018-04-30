@@ -38,6 +38,6 @@ function initializeClock(id, endtime) {
 }
 
 // var deadline = new Date(Date.now() + 15 * 24 * 60 * 60 * 1000);
-var deadline = new Date("June 9, 2018 20:45:00");
+var deadline = new Date("June 9, 2018 12:30:00");
 console.log(deadline);
 initializeClock('clockdiv', deadline);
